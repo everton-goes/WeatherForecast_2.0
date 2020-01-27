@@ -1,14 +1,14 @@
 # WeatherForecast_2.0
 Teste HBSIS
 
-Tecnologias utilizadas
+- Tecnologias utilizadas
 
 Backend: Java utilizando o Spring Framework(Spring Boot, Spring MVC, Spring Data JPA);
 Frontend: Angular 8, Typescript, HTML, CSS e Bootstrap;
 Banco de Dados: MySQL;
 Utilizado a API publica do open weather ( http://openweathermap.org/api ).
 
-Ferramentas utilizadas
+- Ferramentas utilizadas
 
 IntelliJ IDEA Community Edition 2019.3.1;
 MySQL Workbench 8.0 CE;
@@ -16,7 +16,7 @@ Visual Studio Code;
 Angular CLI versão 8.3.23;
 Node.js versão v12.14.1.
 
-Fluxo de telas
+- Fluxo de telas
 
 1º Tela: Cadastro de cidade e listagem das cidades cadastradas.
 
@@ -29,7 +29,7 @@ que direciona para a tela de previsão do tempo.
 Permite que o usuário possa visualizar detalhes da previsão do tempo de até 5 dias para a cidade selecionada, 
 os detalhes são: imagem representativa do tempo, data/hora, temperatura, temperatura mínima, temperatuda máxima e tempo.
 
-Importar/rodar o projeto - Backend
+- Importar/rodar o projeto - Backend
 
 Criar uma conexão no banco de dados MySQL com as seguintes informações:
 
@@ -45,7 +45,7 @@ Rodar o script do arquivo create_database.sql no banco de dados
 
 Baixar a branch master do repositorio https://github.com/everton-goes/WeatherForecast_2.0.git
 
-Importar o projeto WeatherForecast-API-Rest na IDE IntelliJ IDEA utilizando o Maven
+- Importar o projeto WeatherForecast-API-Rest na IDE IntelliJ IDEA utilizando o Maven
 
 Logo após o Maven importar todas as dependencias executar a classe Main WeatherforecastApplication
 localizada em com.teste.web.hbsis.weatherforecast.WeatherforecastApplication
