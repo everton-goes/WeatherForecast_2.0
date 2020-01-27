@@ -45,12 +45,12 @@ Rodar o script do arquivo create_database.sql no banco de dados
 
 Baixar a branch master do repositorio https://github.com/everton-goes/WeatherForecast_2.0.git
 
-- Importar o projeto WeatherForecast-API-Rest na IDE IntelliJ IDEA utilizando o Maven
+Importar o projeto WeatherForecast-API-Rest na IDE IntelliJ IDEA utilizando o Maven
 
 Logo após o Maven importar todas as dependencias executar a classe Main WeatherforecastApplication
 localizada em com.teste.web.hbsis.weatherforecast.WeatherforecastApplication
 
-Importar/rodar o projeto - Frontend
+- Importar/rodar o projeto - Frontend
 
 Após ter baixado a branch master e configurado o backend:
 
